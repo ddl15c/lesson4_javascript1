@@ -13,8 +13,7 @@ Demarco Lockhart
 Furthered developed are web applications skills by using javascript, specifically using a calculation tool 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://ddl15c.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
 1. how to declare variables using javascript
